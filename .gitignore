@@ -1,0 +1,17 @@
+# WordPress Core
+wp-config.php
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/backup-db/
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Vibecoding & Secrets
+.env
+*.log
+node_modules/
+vendor/
